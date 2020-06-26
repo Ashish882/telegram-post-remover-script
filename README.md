@@ -1,0 +1,1 @@
+# telegram-post-remover-script
